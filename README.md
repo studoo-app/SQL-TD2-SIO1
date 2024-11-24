@@ -25,6 +25,8 @@ permettant d'accéder à la base de données.
 ### Exercice 1 : Sélection Simple
 - Afficher tous les produits disponibles dans la table Produits.
 - Lister les noms et prix des produits.
+
+### Exercice 2 : Clause WHERE
 - Sélectionner les produits dont le prix est supérieur à 50.
 - Afficher les clients âgés de plus de 30 ans.
 
@@ -53,12 +55,16 @@ permettant d'accéder à la base de données.
 - Lister les fournisseurs ayant plus d'un produit.
 - Afficher les clients ayant plus de 5 ans d'ancienneté de fidélité.
 
-### Exercice 8 : Limitation des Résultats
+### Exercice 8 : Sous-requêtes
+- Sélectionner les produits dont le prix est supérieur à la moyenne des prix.
+- Trouver les clients plus âgés que l'âge moyen des clients.
+
+### Exercice 9 : Limitation des Résultats
 - Afficher les trois produits les plus chers.
 - Lister les deux clients les plus fidèles.
 - Afficher les produits dont le prix est supérieur à 50 et le stock est inférieur à 50, limité à 5 résultats.
 
-### Exercice 9 : Expressions Conditionnelles avec CASE
+### Exercice 10 : Expressions Conditionnelles avec CASE
 - Afficher le nom du produit et une étiquette 'Cher' si le prix est supérieur à 100, 'Abordable' si le prix est entre 50 et 100, et 'Bon marché' sinon.
 - Afficher le nom du client et une étiquette 'Nouveau' si la fidélité est inférieure à 3 ans, 'Régulier' entre 3 et 7 ans, et 'Loyal' au-delà.
 - Lister les clients et une étiquette 'Majeur' si l'âge est supérieur à 18, 'Mineur' sinon.
