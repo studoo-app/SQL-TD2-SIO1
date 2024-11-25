@@ -53,7 +53,6 @@ permettant d'accéder à la base de données.
 ### Exercice 7 : GROUP BY et HAVING
 - Afficher le nombre de produits par catégorie.
 - Lister les fournisseurs ayant plus d'un produit.
-- Afficher les clients ayant plus de 5 ans d'ancienneté de fidélité.
 
 ### Exercice 8 : Sous-requêtes
 - Sélectionner les produits dont le prix est supérieur à la moyenne des prix.
